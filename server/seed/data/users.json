@@ -1,0 +1,2988 @@
+[
+  {
+    "role": "faculty",
+    "name": "Dr. Ramesh Kulkarni",
+    "email": "ramesh.kulkarni.faculty@example.com",
+    "department": "MCA",
+    "employeeId": "BMSIT-MCA-F01",
+    "designation": "Professor",
+    "specialization": "Data Science",
+    "phone": "9000010001",
+    "isActive": true,
+    "createdAt": "2026-06-01T10:07:00Z"
+  },
+  {
+    "role": "faculty",
+    "name": "Prof. Anitha Shenoy",
+    "email": "anitha.shenoy.faculty@example.com",
+    "department": "MCA",
+    "employeeId": "BMSIT-MCA-F02",
+    "designation": "Assistant Professor",
+    "specialization": "Full Stack Development",
+    "phone": "9000010138",
+    "isActive": true,
+    "createdAt": "2026-06-01T10:20:00Z"
+  },
+  {
+    "role": "faculty",
+    "name": "Dr. Suresh Nair",
+    "email": "suresh.nair.faculty@example.com",
+    "department": "CSE",
+    "employeeId": "BMSIT-CSE-F03",
+    "designation": "Associate Professor",
+    "specialization": "Artificial Intelligence",
+    "phone": "9000010275",
+    "isActive": true,
+    "createdAt": "2026-06-01T10:32:00Z"
+  },
+  {
+    "role": "faculty",
+    "name": "Prof. Kavitha Rao",
+    "email": "kavitha.rao.faculty@example.com",
+    "department": "CSE",
+    "employeeId": "BMSIT-CSE-F04",
+    "designation": "Assistant Professor",
+    "specialization": "Cloud Computing",
+    "phone": "9000010412",
+    "isActive": true,
+    "createdAt": "2026-06-01T10:32:00Z"
+  },
+  {
+    "role": "faculty",
+    "name": "Dr. Manjunath Gowda",
+    "email": "manjunath.gowda.faculty@example.com",
+    "department": "ISE",
+    "employeeId": "BMSIT-ISE-F05",
+    "designation": "Associate Professor",
+    "specialization": "Cyber Security",
+    "phone": "9000010549",
+    "isActive": true,
+    "createdAt": "2026-06-01T10:41:00Z"
+  },
+  {
+    "role": "faculty",
+    "name": "Prof. Deepa Bhat",
+    "email": "deepa.bhat.faculty@example.com",
+    "department": "ISE",
+    "employeeId": "BMSIT-ISE-F06",
+    "designation": "Assistant Professor",
+    "specialization": "Software Engineering",
+    "phone": "9000010686",
+    "isActive": true,
+    "createdAt": "2026-06-01T10:55:00Z"
+  },
+  {
+    "role": "admin",
+    "name": "Platform Administrator",
+    "email": "admin@example.com",
+    "department": "MCA",
+    "employeeId": "BMSIT-ADM-01",
+    "designation": "System Administrator",
+    "phone": "9000010823",
+    "isActive": true,
+    "createdAt": "2026-06-01T10:06:00Z"
+  },
+  {
+    "role": "student",
+    "name": "Nisha Gowda",
+    "usn": "1BY25MC001",
+    "email": "nisha.1by25mc001@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "A",
+    "phone": "9000010960",
+    "isActive": true,
+    "cgpa": 8.04,
+    "attendance": 96,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cloud & DevOps",
+    "careerGoal": "Cloud Engineer",
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "CI/CD",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Linux",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "Docker",
+        "level": "Weak",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-23T10:33:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-17T16:27:00Z"
+      },
+      {
+        "title": "Eco Champion",
+        "icon": "ECO",
+        "description": "2+ approved sustainability/social achievements",
+        "earnedAt": "2026-07-17T16:26:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Pavan Verma",
+    "usn": "1BY25MC002",
+    "email": "pavan.1by25mc002@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000011097",
+    "isActive": true,
+    "cgpa": 7.81,
+    "attendance": 93,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Software Engineer",
+    "skills": [
+      {
+        "name": "Express.js",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Git",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "React",
+        "level": "Weak",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-13T10:27:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-09-17T16:38:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-09-17T16:19:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Aditya Sharma",
+    "usn": "1BY25MC003",
+    "email": "aditya.1by25mc003@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000011234",
+    "isActive": true,
+    "cgpa": 9.03,
+    "attendance": 80,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "Product Designer",
+    "skills": [
+      {
+        "name": "Figma",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "UI Design",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "User Research",
+        "level": "Average",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-17T10:49:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-09-30T16:05:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-09-30T16:20:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Imran Pai",
+    "usn": "1BY25MC004",
+    "email": "imran.1by25mc004@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000011371",
+    "isActive": true,
+    "cgpa": 8.0,
+    "attendance": 100,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "Product Designer",
+    "skills": [
+      {
+        "name": "Prototyping",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Figma",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "User Research",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "UI Design",
+        "level": "Weak",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-03T10:41:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-09-12T16:22:00Z"
+      },
+      {
+        "title": "Perfect Attendance",
+        "icon": "100%",
+        "description": "Attendance recorded as 100%",
+        "earnedAt": "2026-09-12T16:50:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-09-12T16:53:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Divya Pai",
+    "usn": "1BY25MC005",
+    "email": "divya.1by25mc005@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "A",
+    "phone": "9000011508",
+    "isActive": true,
+    "cgpa": 7.61,
+    "attendance": 89,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Full Stack Developer",
+    "skills": [
+      {
+        "name": "React",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Git",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-20T10:50:00Z",
+    "profileComplete": true,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Aditya Patil",
+    "usn": "1BY25MC006",
+    "email": "aditya.1by25mc006@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000011645",
+    "isActive": true,
+    "cgpa": 8.52,
+    "attendance": 76,
+    "activeBacklogs": 0,
+    "interestedDomain": "Artificial Intelligence",
+    "careerGoal": "AI Engineer",
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "SQL",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "PyTorch",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "NLP",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "TensorFlow",
+        "level": "Weak",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-19T10:08:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-09-07T16:48:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-09-07T16:55:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Tushar Kumar",
+    "usn": "1BY25MC007",
+    "email": "tushar.1by25mc007@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000011782",
+    "isActive": true,
+    "cgpa": 9.61,
+    "attendance": 88,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Penetration Tester",
+    "skills": [
+      {
+        "name": "Networking",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "Cryptography",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Linux",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "OWASP",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-01T10:06:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-06-22T16:48:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Harish Shetty",
+    "usn": "1BY25MC008",
+    "email": "harish.1by25mc008@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000011919",
+    "isActive": true,
+    "cgpa": 7.39,
+    "attendance": 75,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Software Engineer",
+    "skills": [
+      {
+        "name": "Git",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "Node.js",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Average",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-19T10:39:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-08-06T16:12:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-08-06T16:47:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Sahana Iyer",
+    "usn": "1BY25MC009",
+    "email": "sahana.1by25mc009@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000012056",
+    "isActive": true,
+    "cgpa": 6.86,
+    "attendance": 92,
+    "activeBacklogs": 0,
+    "interestedDomain": "Data Science",
+    "careerGoal": "Data Scientist",
+    "skills": [
+      {
+        "name": "Statistics",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "SQL",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "Power BI",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Pandas",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Excel",
+        "level": "Weak",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-21T10:34:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-17T16:41:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-07-17T16:48:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Anusha Hegde",
+    "usn": "1BY25MC010",
+    "email": "anusha.1by25mc010@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000012193",
+    "isActive": true,
+    "cgpa": 7.57,
+    "attendance": 85,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cloud & DevOps",
+    "careerGoal": "DevOps Engineer",
+    "skills": [
+      {
+        "name": "Docker",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "AWS",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Python",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Linux",
+        "level": "Average",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-10T10:11:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-01T16:26:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-07-01T16:50:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Siddharth Iyer",
+    "usn": "1BY25MC011",
+    "email": "siddharth.1by25mc011@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000012330",
+    "isActive": true,
+    "cgpa": 8.92,
+    "attendance": 97,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Software Engineer",
+    "skills": [
+      {
+        "name": "MongoDB",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Git",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Node.js",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "React",
+        "level": "Average",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-04T10:54:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-30T16:56:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Shreya Patil",
+    "usn": "1BY25MC012",
+    "email": "shreya.1by25mc012@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000012467",
+    "isActive": true,
+    "cgpa": 8.19,
+    "attendance": 83,
+    "activeBacklogs": 0,
+    "interestedDomain": "Artificial Intelligence",
+    "careerGoal": "Machine Learning Engineer",
+    "skills": [
+      {
+        "name": "NLP",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "PyTorch",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Statistics",
+        "level": "Strong",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-04T10:39:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-06-22T16:52:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Amrutha Reddy",
+    "usn": "1BY25MC013",
+    "email": "amrutha.1by25mc013@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000012604",
+    "isActive": true,
+    "cgpa": 6.84,
+    "attendance": 93,
+    "activeBacklogs": 1,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Penetration Tester",
+    "skills": [
+      {
+        "name": "OWASP",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "Linux",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Python",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Cryptography",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Wireshark",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-24T10:51:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-09-27T16:47:00Z"
+      },
+      {
+        "title": "Eco Champion",
+        "icon": "ECO",
+        "description": "2+ approved sustainability/social achievements",
+        "earnedAt": "2026-09-27T16:12:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Pooja D'Souza",
+    "usn": "1BY25MC014",
+    "email": "pooja.1by25mc014@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000012741",
+    "isActive": true,
+    "cgpa": 6.06,
+    "attendance": 80,
+    "activeBacklogs": 1,
+    "interestedDomain": "Mobile Development",
+    "careerGoal": "Mobile App Developer",
+    "skills": [
+      {
+        "name": "Git",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "Flutter",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "UI Design",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-25T10:16:00Z",
+    "profileComplete": true,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Abhishek Rao",
+    "usn": "1BY25MC015",
+    "email": "abhishek.1by25mc015@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000012878",
+    "isActive": true,
+    "cgpa": 6.3,
+    "attendance": 86,
+    "activeBacklogs": 0,
+    "interestedDomain": "Artificial Intelligence",
+    "careerGoal": "Machine Learning Engineer",
+    "skills": [
+      {
+        "name": "TensorFlow",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Python",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "PyTorch",
+        "level": "Weak",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-13T10:20:00Z",
+    "profileComplete": true,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Tushar Kulkarni",
+    "usn": "1BY25MC016",
+    "email": "tushar.1by25mc016@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "A",
+    "phone": "9000013015",
+    "isActive": true,
+    "cgpa": 8.62,
+    "attendance": 85,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Penetration Tester",
+    "skills": [
+      {
+        "name": "Cryptography",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Networking",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Python",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "OWASP",
+        "level": "Average",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-23T10:21:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-09-11T16:21:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-09-11T16:19:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Akash Acharya",
+    "usn": "1BY25MC017",
+    "email": "akash.1by25mc017@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000013152",
+    "isActive": true,
+    "cgpa": 6.12,
+    "attendance": 67,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "UI/UX Designer",
+    "skills": [
+      {
+        "name": "User Research",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Weak",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-06T10:39:00Z",
+    "profileComplete": true,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Meghana Gowda",
+    "usn": "1BY25MC018",
+    "email": "meghana.1by25mc018@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "A",
+    "phone": "9000013289",
+    "isActive": true,
+    "cgpa": 7.44,
+    "attendance": 84,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Software Engineer",
+    "skills": [
+      {
+        "name": "Express.js",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Node.js",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Git",
+        "level": "Weak",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-22T10:14:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-28T16:37:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-07-28T16:11:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Vaishnavi Nair",
+    "usn": "1BY25MC019",
+    "email": "vaishnavi.1by25mc019@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000013426",
+    "isActive": true,
+    "cgpa": 7.92,
+    "attendance": 82,
+    "activeBacklogs": 0,
+    "interestedDomain": "Data Science",
+    "careerGoal": "Data Scientist",
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Statistics",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Power BI",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "SQL",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Excel",
+        "level": "Weak",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-06T10:35:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-09-10T16:27:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-09-10T16:19:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Rohan D'Souza",
+    "usn": "1BY25MC020",
+    "email": "rohan.1by25mc020@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "A",
+    "phone": "9000013563",
+    "isActive": true,
+    "cgpa": 8.35,
+    "attendance": 84,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "Product Designer",
+    "skills": [
+      {
+        "name": "User Research",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Prototyping",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Figma",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "Weak",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-08T10:35:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-08-30T16:02:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Fathima Reddy",
+    "usn": "1BY25MC021",
+    "email": "fathima.1by25mc021@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000013700",
+    "isActive": true,
+    "cgpa": 8.99,
+    "attendance": 92,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Software Engineer",
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Git",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Average",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-01T10:22:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-01T16:33:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-07-01T16:34:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Imran Murthy",
+    "usn": "1BY25MC022",
+    "email": "imran.1by25mc022@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "A",
+    "phone": "9000013837",
+    "isActive": true,
+    "cgpa": 7.4,
+    "attendance": 72,
+    "activeBacklogs": 0,
+    "interestedDomain": "Mobile Development",
+    "careerGoal": "Mobile App Developer",
+    "skills": [
+      {
+        "name": "Kotlin",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Java",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "UI Design",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Git",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-19T10:02:00Z",
+    "profileComplete": true,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Tejaswini Joshi",
+    "usn": "1BY25MC023",
+    "email": "tejaswini.1by25mc023@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "A",
+    "phone": "9000013974",
+    "isActive": true,
+    "cgpa": 8.62,
+    "attendance": 93,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Security Analyst",
+    "skills": [
+      {
+        "name": "OWASP",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Linux",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Networking",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "Cryptography",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Python",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-10T10:18:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-08T16:58:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Mohammed Sharma",
+    "usn": "1BY25MC024",
+    "email": "mohammed.1by25mc024@example.com",
+    "department": "MCA",
+    "semester": 3,
+    "section": "B",
+    "phone": "9000014111",
+    "isActive": true,
+    "cgpa": 8.79,
+    "attendance": 96,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Full Stack Developer",
+    "skills": [
+      {
+        "name": "MongoDB",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "React",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Average",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-24T10:33:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-09T16:25:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-07-09T16:10:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Ananya Iyer",
+    "usn": "1BY26MC001",
+    "email": "ananya.1by26mc001@example.com",
+    "department": "MCA",
+    "semester": 1,
+    "section": "A",
+    "phone": "9000014248",
+    "isActive": true,
+    "cgpa": null,
+    "attendance": null,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Full Stack Developer",
+    "skills": [
+      {
+        "name": "React",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Git",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Node.js",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-09-05T10:06:00Z",
+    "profileComplete": false,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Manoj Pai",
+    "usn": "1BY26MC002",
+    "email": "manoj.1by26mc002@example.com",
+    "department": "MCA",
+    "semester": 1,
+    "section": "A",
+    "phone": "9000014385",
+    "isActive": true,
+    "cgpa": null,
+    "attendance": null,
+    "activeBacklogs": 0,
+    "interestedDomain": "Artificial Intelligence",
+    "careerGoal": "AI Engineer",
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "NLP",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "PyTorch",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "SQL",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "TensorFlow",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-09-19T10:22:00Z",
+    "profileComplete": false,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Sneha Shetty",
+    "usn": "1BY26MC003",
+    "email": "sneha.1by26mc003@example.com",
+    "department": "MCA",
+    "semester": 1,
+    "section": "B",
+    "phone": "9000014522",
+    "isActive": true,
+    "cgpa": null,
+    "attendance": null,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "Product Designer",
+    "skills": [
+      {
+        "name": "HTML/CSS",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "User Research",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Prototyping",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-09-11T10:58:00Z",
+    "profileComplete": false,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Rashmi Acharya",
+    "usn": "1BY26MC004",
+    "email": "rashmi.1by26mc004@example.com",
+    "department": "MCA",
+    "semester": 1,
+    "section": "B",
+    "phone": "9000014659",
+    "isActive": true,
+    "cgpa": null,
+    "attendance": null,
+    "activeBacklogs": 0,
+    "interestedDomain": "Mobile Development",
+    "careerGoal": "Mobile App Developer",
+    "skills": [
+      {
+        "name": "Firebase",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Flutter",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Java",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Kotlin",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-09-07T10:09:00Z",
+    "profileComplete": false,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Ganesh Acharya",
+    "usn": "1BY26MC005",
+    "email": "ganesh.1by26mc005@example.com",
+    "department": "MCA",
+    "semester": 1,
+    "section": "A",
+    "phone": "9000014796",
+    "isActive": true,
+    "cgpa": null,
+    "attendance": null,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Penetration Tester",
+    "skills": [
+      {
+        "name": "OWASP",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Linux",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Cryptography",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Wireshark",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Python",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-09-08T10:21:00Z",
+    "profileComplete": false,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Kavya Desai",
+    "usn": "1BY26MC006",
+    "email": "kavya.1by26mc006@example.com",
+    "department": "MCA",
+    "semester": 1,
+    "section": "B",
+    "phone": "9000014933",
+    "isActive": true,
+    "cgpa": null,
+    "attendance": null,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "Product Designer",
+    "skills": [
+      {
+        "name": "User Research",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-09-04T10:43:00Z",
+    "profileComplete": false,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Vaishnavi Pai",
+    "usn": "1BY23CS001",
+    "email": "vaishnavi.1by23cs001@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "B",
+    "phone": "9000015070",
+    "isActive": true,
+    "cgpa": 7.62,
+    "attendance": 80,
+    "activeBacklogs": 0,
+    "interestedDomain": "Mobile Development",
+    "careerGoal": "Mobile App Developer",
+    "skills": [
+      {
+        "name": "UI Design",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Git",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Java",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Firebase",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Flutter",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-25T10:51:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-17T16:54:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Yashas Pai",
+    "usn": "1BY23CS002",
+    "email": "yashas.1by23cs002@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "A",
+    "phone": "9000015207",
+    "isActive": true,
+    "cgpa": 8.08,
+    "attendance": 88,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Software Engineer",
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "React",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Git",
+        "level": "Strong",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-03T10:35:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-08-13T16:06:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Kiran Kulkarni",
+    "usn": "1BY23CS003",
+    "email": "kiran.1by23cs003@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "A",
+    "phone": "9000015344",
+    "isActive": true,
+    "cgpa": 9.51,
+    "attendance": 74,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Security Analyst",
+    "skills": [
+      {
+        "name": "Networking",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Linux",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Python",
+        "level": "Strong",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-04T10:01:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-06-19T16:42:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Divya Naik",
+    "usn": "1BY23CS004",
+    "email": "divya.1by23cs004@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "B",
+    "phone": "9000015481",
+    "isActive": true,
+    "cgpa": 7.14,
+    "attendance": 87,
+    "activeBacklogs": 0,
+    "interestedDomain": "Artificial Intelligence",
+    "careerGoal": "AI Engineer",
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Statistics",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "TensorFlow",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-09T10:02:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-06-30T16:58:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Deepika Pai",
+    "usn": "1BY23CS005",
+    "email": "deepika.1by23cs005@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "B",
+    "phone": "9000015618",
+    "isActive": true,
+    "cgpa": 9.31,
+    "attendance": 95,
+    "activeBacklogs": 0,
+    "interestedDomain": "Data Science",
+    "careerGoal": "Data Scientist",
+    "skills": [
+      {
+        "name": "Power BI",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Pandas",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Statistics",
+        "level": "Average",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-19T10:03:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-08T16:20:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Imran Naik",
+    "usn": "1BY23CS006",
+    "email": "imran.1by23cs006@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "B",
+    "phone": "9000015755",
+    "isActive": true,
+    "cgpa": 9.29,
+    "attendance": 100,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "UI/UX Designer",
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Prototyping",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "User Research",
+        "level": "Strong",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-03T10:35:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-06-28T16:50:00Z"
+      },
+      {
+        "title": "Perfect Attendance",
+        "icon": "100%",
+        "description": "Attendance recorded as 100%",
+        "earnedAt": "2026-06-28T16:19:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Nisha Iyer",
+    "usn": "1BY23CS007",
+    "email": "nisha.1by23cs007@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "B",
+    "phone": "9000015892",
+    "isActive": true,
+    "cgpa": 6.19,
+    "attendance": 85,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "UI/UX Designer",
+    "skills": [
+      {
+        "name": "Prototyping",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "User Research",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-17T10:13:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Silver Performer",
+        "icon": "SILVER",
+        "description": "Overall ranking score between 70 and 85",
+        "earnedAt": "2026-07-09T16:30:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Darshan Reddy",
+    "usn": "1BY23CS008",
+    "email": "darshan.1by23cs008@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "A",
+    "phone": "9000016029",
+    "isActive": true,
+    "cgpa": 8.11,
+    "attendance": 76,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "UI/UX Designer",
+    "skills": [
+      {
+        "name": "HTML/CSS",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "UI Design",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "User Research",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "Prototyping",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Strong",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-22T10:55:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-09-06T16:30:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-09-06T16:46:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Rohan Reddy",
+    "usn": "1BY23CS009",
+    "email": "rohan.1by23cs009@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "A",
+    "phone": "9000016166",
+    "isActive": true,
+    "cgpa": 6.91,
+    "attendance": 96,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "UI/UX Designer",
+    "skills": [
+      {
+        "name": "UI Design",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "User Research",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-14T10:41:00Z",
+    "profileComplete": true,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Ritika Pai",
+    "usn": "1BY23CS010",
+    "email": "ritika.1by23cs010@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "B",
+    "phone": "9000016303",
+    "isActive": true,
+    "cgpa": 7.34,
+    "attendance": 82,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Security Analyst",
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "Linux",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "OWASP",
+        "level": "Average",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-16T10:00:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-07T16:06:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-07-07T16:55:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Diya Gowda",
+    "usn": "1BY23CS011",
+    "email": "diya.1by23cs011@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "A",
+    "phone": "9000016440",
+    "isActive": true,
+    "cgpa": 9.63,
+    "attendance": 77,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Software Engineer",
+    "skills": [
+      {
+        "name": "Git",
+        "level": "Weak",
+        "source": "verified"
+      },
+      {
+        "name": "Node.js",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Express.js",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-07T10:23:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-01T16:48:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Nikhil Desai",
+    "usn": "1BY23CS012",
+    "email": "nikhil.1by23cs012@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "B",
+    "phone": "9000016577",
+    "isActive": true,
+    "cgpa": 7.2,
+    "attendance": 78,
+    "activeBacklogs": 0,
+    "interestedDomain": "UI/UX Design",
+    "careerGoal": "UI/UX Designer",
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Prototyping",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "UI Design",
+        "level": "Weak",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-25T10:05:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-18T16:08:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-07-18T16:40:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Siddharth Kumar",
+    "usn": "1BY23CS013",
+    "email": "siddharth.1by23cs013@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "A",
+    "phone": "9000016714",
+    "isActive": true,
+    "cgpa": 8.43,
+    "attendance": 92,
+    "activeBacklogs": 0,
+    "interestedDomain": "Mobile Development",
+    "careerGoal": "Mobile App Developer",
+    "skills": [
+      {
+        "name": "UI Design",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Java",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Kotlin",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Firebase",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Flutter",
+        "level": "Weak",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-24T10:23:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-06T16:31:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-07-06T16:43:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Tejaswini Rao",
+    "usn": "1BY23CS014",
+    "email": "tejaswini.1by23cs014@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "B",
+    "phone": "9000016851",
+    "isActive": true,
+    "cgpa": 6.4,
+    "attendance": 92,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cloud & DevOps",
+    "careerGoal": "DevOps Engineer",
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Linux",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Python",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "Docker",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "AWS",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-25T10:16:00Z",
+    "profileComplete": true,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Spoorthi Shetty",
+    "usn": "1BY23CS015",
+    "email": "spoorthi.1by23cs015@example.com",
+    "department": "CSE",
+    "semester": 7,
+    "section": "A",
+    "phone": "9000016988",
+    "isActive": true,
+    "cgpa": 7.15,
+    "attendance": 86,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cloud & DevOps",
+    "careerGoal": "DevOps Engineer",
+    "skills": [
+      {
+        "name": "Linux",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Python",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "AWS",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Docker",
+        "level": "Weak",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-21T10:51:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-15T16:47:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-07-15T16:19:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Joel Kamath",
+    "usn": "1BY24IS001",
+    "email": "joel.1by24is001@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "A",
+    "phone": "9000017125",
+    "isActive": true,
+    "cgpa": 8.97,
+    "attendance": 80,
+    "activeBacklogs": 1,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Security Analyst",
+    "skills": [
+      {
+        "name": "Wireshark",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Networking",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Linux",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Cryptography",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-24T10:04:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-18T16:25:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Rakesh Khan",
+    "usn": "1BY24IS002",
+    "email": "rakesh.1by24is002@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "B",
+    "phone": "9000017262",
+    "isActive": true,
+    "cgpa": 7.93,
+    "attendance": 86,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Penetration Tester",
+    "skills": [
+      {
+        "name": "OWASP",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Python",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Linux",
+        "level": "Strong",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-08T10:32:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-08-05T16:50:00Z"
+      },
+      {
+        "title": "Eco Champion",
+        "icon": "ECO",
+        "description": "2+ approved sustainability/social achievements",
+        "earnedAt": "2026-08-05T16:09:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Nisha Bhat",
+    "usn": "1BY24IS003",
+    "email": "nisha.1by24is003@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "B",
+    "phone": "9000017399",
+    "isActive": true,
+    "cgpa": 8.06,
+    "attendance": 87,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cloud & DevOps",
+    "careerGoal": "DevOps Engineer",
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Docker",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Python",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-07T10:24:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-06-28T16:09:00Z"
+      },
+      {
+        "title": "Eco Champion",
+        "icon": "ECO",
+        "description": "2+ approved sustainability/social achievements",
+        "earnedAt": "2026-06-28T16:07:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Suhas Hegde",
+    "usn": "1BY24IS004",
+    "email": "suhas.1by24is004@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "A",
+    "phone": "9000017536",
+    "isActive": true,
+    "cgpa": 7.21,
+    "attendance": 88,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Security Analyst",
+    "skills": [
+      {
+        "name": "Linux",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Python",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "OWASP",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Wireshark",
+        "level": "Weak",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-19T10:23:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-09-12T16:02:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Sahana Kulkarni",
+    "usn": "1BY24IS005",
+    "email": "sahana.1by24is005@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "B",
+    "phone": "9000017673",
+    "isActive": true,
+    "cgpa": 7.52,
+    "attendance": 72,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Full Stack Developer",
+    "skills": [
+      {
+        "name": "Express.js",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "React",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Strong",
+        "source": "verified"
+      }
+    ],
+    "createdAt": "2026-06-09T10:48:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-06-21T16:10:00Z"
+      },
+      {
+        "title": "Technical Guru",
+        "icon": "TECH",
+        "description": "3+ approved technical/certification/freelance achievements",
+        "earnedAt": "2026-06-21T16:57:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Ishita Reddy",
+    "usn": "1BY24IS006",
+    "email": "ishita.1by24is006@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "B",
+    "phone": "9000017810",
+    "isActive": true,
+    "cgpa": 6.68,
+    "attendance": 73,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Software Engineer",
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "React",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-17T10:40:00Z",
+    "profileComplete": true,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Anusha Kulkarni",
+    "usn": "1BY24IS007",
+    "email": "anusha.1by24is007@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "A",
+    "phone": "9000017947",
+    "isActive": true,
+    "cgpa": 7.85,
+    "attendance": 80,
+    "activeBacklogs": 1,
+    "interestedDomain": "Mobile Development",
+    "careerGoal": "Android Developer",
+    "skills": [
+      {
+        "name": "Firebase",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Kotlin",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Flutter",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Git",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "UI Design",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-18T10:40:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-07-07T16:08:00Z"
+      },
+      {
+        "title": "Eco Champion",
+        "icon": "ECO",
+        "description": "2+ approved sustainability/social achievements",
+        "earnedAt": "2026-07-07T16:49:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Ishita Prasad",
+    "usn": "1BY24IS008",
+    "email": "ishita.1by24is008@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "B",
+    "phone": "9000018084",
+    "isActive": true,
+    "cgpa": 5.94,
+    "attendance": 73,
+    "activeBacklogs": 1,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Penetration Tester",
+    "skills": [
+      {
+        "name": "Cryptography",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "Networking",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "Python",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-18T10:05:00Z",
+    "profileComplete": true,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Ganesh Verma",
+    "usn": "1BY24IS009",
+    "email": "ganesh.1by24is009@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "B",
+    "phone": "9000018221",
+    "isActive": true,
+    "cgpa": 7.3,
+    "attendance": 92,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cyber Security",
+    "careerGoal": "Penetration Tester",
+    "skills": [
+      {
+        "name": "Linux",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "OWASP",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Wireshark",
+        "level": "Weak",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-03T10:01:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-06-22T16:38:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Siddharth Shetty",
+    "usn": "1BY24IS010",
+    "email": "siddharth.1by24is010@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "A",
+    "phone": "9000018358",
+    "isActive": true,
+    "cgpa": 7.89,
+    "attendance": 75,
+    "activeBacklogs": 0,
+    "interestedDomain": "Mobile Development",
+    "careerGoal": "Mobile App Developer",
+    "skills": [
+      {
+        "name": "Git",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "UI Design",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "Java",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-03T10:44:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Eco Champion",
+        "icon": "ECO",
+        "description": "2+ approved sustainability/social achievements",
+        "earnedAt": "2026-06-19T16:49:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Chaitra D'Souza",
+    "usn": "1BY24IS011",
+    "email": "chaitra.1by24is011@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "B",
+    "phone": "9000018495",
+    "isActive": true,
+    "cgpa": 8.07,
+    "attendance": 69,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cloud & DevOps",
+    "careerGoal": "Cloud Engineer",
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Linux",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "CI/CD",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "AWS",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-10T10:47:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-06-30T16:32:00Z"
+      },
+      {
+        "title": "Eco Champion",
+        "icon": "ECO",
+        "description": "2+ approved sustainability/social achievements",
+        "earnedAt": "2026-06-30T16:54:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Mohammed Rao",
+    "usn": "1BY24IS012",
+    "email": "mohammed.1by24is012@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "B",
+    "phone": "9000018632",
+    "isActive": true,
+    "cgpa": 7.2,
+    "attendance": 76,
+    "activeBacklogs": 1,
+    "interestedDomain": "Artificial Intelligence",
+    "careerGoal": "AI Engineer",
+    "skills": [
+      {
+        "name": "Statistics",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "TensorFlow",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "NLP",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "PyTorch",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-05T10:26:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Silver Performer",
+        "icon": "SILVER",
+        "description": "Overall ranking score between 70 and 85",
+        "earnedAt": "2026-06-28T16:21:00Z"
+      },
+      {
+        "title": "Eco Champion",
+        "icon": "ECO",
+        "description": "2+ approved sustainability/social achievements",
+        "earnedAt": "2026-06-28T16:59:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Rahul Rao",
+    "usn": "1BY24IS013",
+    "email": "rahul.1by24is013@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "B",
+    "phone": "9000018769",
+    "isActive": true,
+    "cgpa": 6.51,
+    "attendance": 74,
+    "activeBacklogs": 0,
+    "interestedDomain": "Cloud & DevOps",
+    "careerGoal": "DevOps Engineer",
+    "skills": [
+      {
+        "name": "Linux",
+        "level": "Average",
+        "source": "self-declared"
+      },
+      {
+        "name": "Docker",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "CI/CD",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "AWS",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-15T10:49:00Z",
+    "profileComplete": true,
+    "badges": []
+  },
+  {
+    "role": "student",
+    "name": "Fathima Sharma",
+    "usn": "1BY24IS014",
+    "email": "fathima.1by24is014@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "A",
+    "phone": "9000018906",
+    "isActive": false,
+    "cgpa": 9.0,
+    "attendance": 94,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Software Engineer",
+    "skills": [
+      {
+        "name": "Git",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "Express.js",
+        "level": "Average",
+        "source": "verified"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Strong",
+        "source": "verified"
+      },
+      {
+        "name": "React",
+        "level": "Strong",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-08T10:55:00Z",
+    "profileComplete": true,
+    "badges": [
+      {
+        "title": "Gold Performer",
+        "icon": "GOLD",
+        "description": "Overall ranking score of 85 or above",
+        "earnedAt": "2026-06-29T16:50:00Z"
+      }
+    ]
+  },
+  {
+    "role": "student",
+    "name": "Kiran Verma",
+    "usn": "1BY24IS015",
+    "email": "kiran.1by24is015@example.com",
+    "department": "ISE",
+    "semester": 5,
+    "section": "B",
+    "phone": "9000019043",
+    "isActive": true,
+    "cgpa": 6.13,
+    "attendance": 89,
+    "activeBacklogs": 0,
+    "interestedDomain": "Full Stack Development",
+    "careerGoal": "Software Engineer",
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Strong",
+        "source": "self-declared"
+      },
+      {
+        "name": "React",
+        "level": "Weak",
+        "source": "self-declared"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Average",
+        "source": "self-declared"
+      }
+    ],
+    "createdAt": "2026-06-23T10:16:00Z",
+    "profileComplete": true,
+    "badges": []
+  }
+]

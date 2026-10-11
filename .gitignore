@@ -1,0 +1,10 @@
+# dependencies (re-created by "npm run setup")
+node_modules/
+# secrets - NEVER upload this
+.env
+# build output (re-created by "npm run build")
+client/dist/
+# logs / OS junk
+*.log
+.DS_Store
+Thumbs.db
