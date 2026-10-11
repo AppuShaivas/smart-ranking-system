@@ -1,7 +1,11 @@
 import axios from "axios";
 
-// All requests go to /api (Vite forwards them to the backend during development).
-const api = axios.create({ baseURL: "/api" });
+// Use Render backend in production and Vite proxy during local development.
+const api = axios.create({
+  baseURL: import.meta.env.VITE_API_URL
+    ? `${import.meta.env.VITE_API_URL}/api`
+    : "/api",
+});
 
 // Attach the login token to every request
 api.interceptors.request.use((config) => {
@@ -12,6 +16,9 @@ api.interceptors.request.use((config) => {
 
 // Turn server errors into readable messages
 export const errorMessage = (err) =>
-  err?.response?.data?.message || (err?.request ? "Cannot reach the server. Is the backend running?" : err?.message || "Something went wrong");
+  err?.response?.data?.message ||
+  (err?.request
+    ? "Cannot reach the server. Is the backend running?"
+    : err?.message || "Something went wrong");
 
 export default api;
